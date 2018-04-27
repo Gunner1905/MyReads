@@ -4,10 +4,10 @@ This is a book tracking app allows you to select and categorize books you have r
 
 ## Getting Started
 
-`git clone https://github.com/jayjongcheolpark/MyReads.git
-cd MyReads
-npm install
-npm start`
+`git clone https://github.com/Gunner1905/MyReads.git`
+`cd MyReads`
+`npm install`
+`npm start`
 
 To get started developing right away:
 
